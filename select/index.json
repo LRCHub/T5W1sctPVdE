@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Officially Missing You",
+  "base_artist": "Tamia",
+  "createdAt": "2025-12-23T14:47:41.768911Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Officially Missing You",
+      "artist": "Tamia",
+      "has_synced": true,
+      "path": "select/01_Officially_Missing_You_Tamia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Officially Missing You (Radio Version)",
+      "artist": "Tamia",
+      "has_synced": true,
+      "path": "select/02_Officially_Missing_You_(Radio_Version)_Tamia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Officially Missing You",
+      "artist": "Tamia",
+      "has_synced": true,
+      "path": "select/03_Officially_Missing_You_Tamia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Officially missing you",
+      "artist": "방예담",
+      "has_synced": true,
+      "path": "select/04_Officially_missing_you_방예담.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Officially Missing You (Studio Sessions)",
+      "artist": "Jayesslee",
+      "has_synced": true,
+      "path": "select/05_Officially_Missing_You_(Studio_Sessions)_Jayesslee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "헬로비너스 우리들의 이야기 Officially Missing You (Live)",
+      "artist": "HELLOVENUS",
+      "has_synced": true,
+      "path": "select/06_헬로비너스_우리들의_이야기_Officially_Missing_You_(Live)_HELLOVENUS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Officially Missing You - 헬로비너스 우리들의 이야기",
+      "artist": "Hello Venus",
+      "has_synced": true,
+      "path": "select/07_Officially_Missing_You_-_헬로비너스_우리들의_이야기_Hello_Venus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Officially Missing You",
+      "artist": "Kris Lawrence",
+      "has_synced": false,
+      "path": "select/08_Officially_Missing_You_Kris_Lawrence.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Officially Missing You (Album Version)",
+      "artist": "Tamia",
+      "has_synced": true,
+      "path": "select/09_Officially_Missing_You_(Album_Version)_Tamia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Officially Missing You",
+      "artist": "Tamia",
+      "has_synced": false,
+      "path": "select/pl_01_Officially_Missing_You_Tamia.txt"
+    }
+  ]
+}
