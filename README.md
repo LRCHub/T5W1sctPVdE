@@ -1,0 +1,49 @@
+# Tamia – Officially Missing You
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.50] All I hear is raindrops falling on the rooftop
+[00:27.11] Oh baby, tell me why'd you have to go
+[00:31.32] 'Cause this pain I feel it won't go away
+[00:51.32] 
+[00:35.63] And today I'm officially missin you
+[00:44.39] I thought that from this heartache, I could escape
+[00:49.68] But I've fronted long enough to know
+[00:55.27] There ain't no way
+[01:04.27] 
+[00:57.65] And today, I'm officially missing you
+[01:05.00] Ooh... can't nobody do it like you
+[01:10.63] Said every little thing you do, hey, baby
+[01:17.94] Said it stays on my mind
+[01:29.94] 
+[01:20.66] And I'm officially
+[01:23.19] All I do is lay around, two years full of tears
+[01:30.78] From looking at your face on the wall
+[01:34.50] Just a week ago you were my baby
+[01:50.50] 
+[01:40.19] Now I don't even know you at all
+[01:44.56] I don't know you at all
+[01:46.74] Well, I wish that you would call me right now
+[01:50.79] So that I could get through to you somehow
+[01:56.39] But I guess it's safe to say, baby
+[02:13.39] 
+[02:00.73] Safe to say that I'm officially missin you
+[02:10.30] Ooh... can't nobody do it like you
+[02:15.06] Said every little thing you do, hey, baby
+[02:22.30] Said it stays on my mind
+[02:24.57] And I'm officially
+[02:29.49] Well, I thought I could just get over you, baby
+[02:35.14] But I see there's something I just can't do
+[02:39.40] From the way you would hold me
+[02:43.91] To the sweet things you told me
+[02:46.99] I just can't find a way to let go of you
+[02:56.71] Ooh... can't nobody do it like you
+[03:01.32] Said every little thing you do, hey, baby
+[03:07.90] Said it stays on my mind
+[03:10.83] And I'm officially
+[03:15.05] It's official
+[03:17.60] Hoo... you know that I'm missin you, yeah, yes
+[03:24.82] All I hear is raindrops, ooh, yeah
+[03:31.72] And I'm officially missin you
+```
